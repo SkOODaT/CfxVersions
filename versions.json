@@ -1,8 +1,8 @@
 {
-	"recommended":"b161",
-	"latest":"b169",
-	"recommended_download":"https://downloads.cfx-services.net/prod/01a0f7ee-cc1d-7f38-aada-d40dbf24bddf/cfx-server_win_x64.zip",
+	"recommended":"b169",
+	"latest":"b170",
+	"recommended_download":"https://downloads.cfx-services.net/prod/01a13a8b-9048-7a1f-9aa7-3c88c54bd798/cfx-server_win_x64.zip",
 	"recommended_txadmin":"9.0.0-beta-a2037545",
-	"latest_download":"https://downloads.cfx-services.net/prod/01a13a8b-9048-7a1f-9aa7-3c88c54bd798/cfx-server_win_x64.zip",
+	"latest_download":"https://downloads.cfx-services.net/prod/01a169c3-7963-7973-9cbd-591d94fcd773/cfx-server_win_x64.zip",
 	"latest_txadmin":"9.0.0-beta-a2037545"
 }
